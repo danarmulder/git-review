@@ -25,7 +25,7 @@
   * git status
 
 * Identify if files are staged or not
-  * git log
+  * git status
 
 * Add a file to the staging area
   * git add < filename >
@@ -46,7 +46,7 @@
   * git remote set-url origin <SSH>
 
 * Pull changes from a shared github repo to your local repo
-  * < your answer here >
+  * git pull origin master
 
 * Show the history of a git repository
   * < your answer here >
