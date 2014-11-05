@@ -25,7 +25,7 @@
   * git status
 
 * Identify if files are staged or not
-  * < your answer here >
+  * git log
 
 * Add a file to the staging area
   * < your answer here >
