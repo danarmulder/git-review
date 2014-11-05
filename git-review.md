@@ -34,7 +34,7 @@
   * git commit -m "Message goes here"
 
 * Commit using the -m flag with a multi-line description
-  * < your answer here >
+  * just add line ands don't close the quote
 
 * Push your local repository to github (assume your remote is already set)
   * < your answer here >
