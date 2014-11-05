@@ -34,10 +34,10 @@
   * git commit -m "Message goes here"
 
 * Commit using the -m flag with a multi-line description
-  * just add line ands don't close the quote
+  * just add lines(return) ands don't close the quote
 
 * Push your local repository to github (assume your remote is already set)
-  * < your answer here >
+  * git push origin master
 
 * Add a remote to your repository
   * < your answer here >
