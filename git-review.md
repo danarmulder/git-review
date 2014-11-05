@@ -25,7 +25,7 @@
   * git status
 
 * Identify if files are staged or not
-  * git status
+  * git ls-files
 
 * Add a file to the staging area
   * git add < filename >
@@ -55,7 +55,7 @@
   * git log
 
 * Roll back to a specific commit in history
-  * < your answer here >
+  * git checkout <SHA>
 
 #### You should understand the following:
 
